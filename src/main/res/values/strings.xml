@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="signupHintEmail">Enter email</string>
+    <string name="signupHintPass">Enter password</string>
+    <string name="signupHintConfirmPass">Repeat password</string>
+    <string name="signup">Signup</string>
+    <string name="linkSignup">Sign up here</string>
+
+    <string name="loginHintEmail">Enter email</string>
+    <string name="loginHintPass">Enter password</string>
+    <string name="login">Login</string>
+    <string name="linkLogin">Login here</string>
+
+    <string name="logout">Logout</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="text1">Not Registered yet</string>
+    <string name="text2">Already registered</string>
+
+    <string name="add">Add</string>
+    <string name="read">Read</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
